@@ -1,8 +1,4 @@
----
-title:  "JavaScript Part Four"
-created_at: "2016-09-06"
-author: "Elie"
----
+# CSS Transforms, Transitions and Animations Exercise
 
 Using your newfound knowledge of CSS Animations, build a clock using entirely HTML and CSS! 
 

@@ -1,8 +1,4 @@
----
-title:  "JavaScript Part Four"
-created_at: "2016-09-06"
-author: "Elie"
----
+# Twitter Bootstrap Exercise 
 
 For this assignment you should **only** use Twitter Bootstrap and [lorem pixel](http://lorempixel.com) for placeholder images.
 
